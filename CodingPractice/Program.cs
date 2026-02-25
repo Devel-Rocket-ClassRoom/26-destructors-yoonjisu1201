@@ -9,9 +9,6 @@ GC.WaitForPendingFinalizers();
 Console.WriteLine("=== 정리 완료 ===");
 
 
-
-
-
 void test()
 {
     Car car1 = new Car("검정");
